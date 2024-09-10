@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vlachvojta (Vojtěch Vlach)
 - 👀 I’m interested in (and learning) python, C++, C# and ASP.NET
-- 🌱 I’m currently learning php, python etc. at FIT (V|B)UT (Brno university of technology)
-- 📫 Feel free to send me an email to vojtechvlachhj@gmail.com
+- 🌱 I’m currently learning AI&ML with pytorch. PHP and JS etc. at FIT (V|B)UT (Brno university of technology)
+- 📫 Feel free to contact me here: vojtechvlach.vv@gmail.com
