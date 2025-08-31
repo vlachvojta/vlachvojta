@@ -1,8 +1,11 @@
-- 🏛️ Software engineer graduated at FIT (V|B)UT (Brno university of technology)
+- 🏛️ Software engineer graduated at [FIT (V|B)UT (Brno university of technology)](https://www.fit.vut.cz/.en)
   - 🤖 Specialized in AI & ML with pytroch & scikit-learn.
-  - 🌱 Few projects in .NET, Python, React.js&ts, PHP, ...
+  - 🌱 School projects in .NET, Python, React.js&ts, PHP, ...
+  - 🥼 Took part in faculty research in [OCR (Optical Character Recognition)](https://github.com/DCGM/pero-ocr) and [LLM usage for content analysis in newspapers](https://github.com/DCGM/discourseer)
+  - 🎵 Bachelor thesis in OCR-based [Musical notation recognition from images](https://github.com/vlachvojta/bachelor_thesis_omr) using Transformer Neural Netoworks
+  - 🌳 Master thesis in [Table structure recognition](https://github.com/vlachvojta/table_structure_recognition) from OCR words to HTML using Multimodal Transformer Neural Networks
 - 👷 Currently working at [kinalisoft s.r.o.](https://kinali.cz/) as Computer vision & Backend junior dev
   - 👁️ Industry automation in PCB testing and visual quality assurance of various physical products
   - 🦾 Using robot arms, cameras, 3D scans.
-  - 🎆 CI/CD with .NET & fastapi, Docker microservices, Robotics
+  - ♻️ CI/CD with .NET & fastapi, Docker microservices, Robotics
 - 📫 (LI)[https://www.linkedin.com/in/vojtech-vlach], (vojtechvlach.vv@gmail.com)[mailto:vojtechvlach.vv@gmail.com]
