@@ -8,4 +8,4 @@
   - 👁️ Industry automation in PCB testing and visual quality assurance of various physical products
   - 🦾 Using robot arms, cameras, 3D scans.
   - ♻️ CI/CD with .NET & fastapi, Docker microservices, Robotics
-- 📫 (LI)[https://www.linkedin.com/in/vojtech-vlach], (vojtechvlach.vv@gmail.com)[mailto:vojtechvlach.vv@gmail.com]
+- 📫 [LI](https://www.linkedin.com/in/vojtech-vlach), [vojtechvlach.vv@gmail.com](mailto:vojtechvlach.vv@gmail.com)
