@@ -1,4 +1,4 @@
-- 🏛️ Software engineer graduated at [FIT (V|B)UT (Brno university of technology)](https://www.fit.vut.cz/.en)
+- 🏛️ Software engineer graduated at [FIT](https://www.fit.vut.cz/.en) (V|B)UT (Brno university of technology)
   - 🤖 Specialized in AI & ML with pytroch & scikit-learn.
   - 🌱 School projects in .NET, Python, React.js&ts, PHP, ...
   - 🎵 Bachelor thesis in OCR-based [Musical notation recognition from images](https://github.com/vlachvojta/bachelor_thesis_omr) using Transformer Neural Netoworks
