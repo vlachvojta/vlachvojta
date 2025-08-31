@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @vlachvojta (Vojtěch Vlach)
-- 🏛️ Studying FIT (V|B)UT (Brno university of technology)
-- 🌱 Currently learning AI&ML with pytorch/numpy. Some PHP, JS and C# + ASP.NET.
+- 🏛️ Software engineer graduated at FIT (V|B)UT (Brno university of technology)
+  - 🤖 Specialized in AI & ML with pytroch & scikit-learn.
+  - 🌱 Few projects in .NET, Python, React.js&ts, PHP, ...
+- 👷 Currently working at [kinalisoft s.r.o.](https://kinali.cz/) as Computer vision & Backend junior dev
+  - 🎆 CI/CD for .NET + fastapi, Docker microservices, Robotics
 - 📫 Feel free to contact me here: vojtechvlach.vv@gmail.com
