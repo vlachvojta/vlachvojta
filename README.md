@@ -3,6 +3,6 @@
   - 🌱 Few projects in .NET, Python, React.js&ts, PHP, ...
 - 👷 Currently working at [kinalisoft s.r.o.](https://kinali.cz/) as Computer vision & Backend junior dev
   - 👁️ Industry automation in PCB testing and visual quality assurance of various physical products
-    - 🦾 Using robot arms, cameras, 3D scans.
+  - 🦾 Using robot arms, cameras, 3D scans.
   - 🎆 CI/CD with .NET & fastapi, Docker microservices, Robotics
 - 📫 (LI)[https://www.linkedin.com/in/vojtech-vlach], (vojtechvlach.vv@gmail.com)[mailto:vojtechvlach.vv@gmail.com]
