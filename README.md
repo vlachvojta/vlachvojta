@@ -1,9 +1,9 @@
 - 👷 Currently working at [kinalisoft s.r.o.](https://kinali.cz/) as Computer vision & Backend junior dev
   - 👁️ Industry automation in PCB testing and visual quality assurance of various physical products
-  - 🤖 Fine-tuning and deploying ML models with torchScript, openvino
+  - 🤖 Fine-tuning and deploying vision models with pytorch, torchScript, openvino
   - ♻️ CI/CD with .NET, Python fastapi, Docker microservices, Robotics
   - 🦾 Using robot arms, cameras, 3D scans.
-- 🏛️ Software engineer graduated at [FIT](https://www.fit.vut.cz/.en) (V|B)UT (Brno university of technology)
+- 🏛️ Software engineer graduate at [FIT](https://www.fit.vut.cz/.en) VUT (Brno university of technology)
   - 🤖 Specialized in AI & ML with pytroch & scikit-learn.
   - 🌱 School projects in .NET, Python, React.js & ts, PHP, ...
   - 🎵 Bachelor thesis in OCR-based [Musical notation recognition from images](https://github.com/vlachvojta/bachelor_thesis_omr) using Transformer Neural Netoworks
